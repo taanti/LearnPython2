@@ -1,0 +1,4 @@
+Name, Grade
+Orca, A
+Bimo, C
+Tomy, B
